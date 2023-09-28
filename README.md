@@ -1,3 +1,16 @@
+<div>
+    <h1 align="center">Hey! Como você está hoje? Eu sou o Gabriel Moura. Já fez algo emocionante recentemente? 😃</h1>
+
+    <p align="center">Sou um Desenvolvedor Full Stack e tenho grande prazer em compartilhar meu conhecimento e experiência no meu canal.<a href="https://www.youtube.com/@broterror" target="_blank">
+      <img
+           width="10%" 
+           align="center" 
+           valign="middle" 
+           src="https://img.shields.io/youtube/channel/subscribers/UCu8lxlYNi1SW2H5jYxTwrCw?label=broterror&style=social" 
+           target="_blank" 
+      />
+    </a>   Fique à vontade para se inscrever e participar conosco nessa jornada de desenvolvimento. Sua contribuição será muito apreciada. Obrigado!</p>
+</div>
 <img src="https://cdn.discordapp.com/attachments/1156363683308503100/1156804007021531197/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.png?ex=65164d2f&is=6514fbaf&hm=3ea3afd5471e23dee417a23a23e7bfdef7141c0539bcf1af2afb74bd7179d6a1&" style="width: 100%; height: 200px; object-fit: cover;
 }">
 <div>
