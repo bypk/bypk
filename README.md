@@ -1,3 +1,13 @@
+<style> 
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    border: 1px solid black;
+}
+</style>
+<img src="https://cdn.discordapp.com/attachments/1156363683308503100/1156804007021531197/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.png?ex=65164d2f&is=6514fbaf&hm=3ea3afd5471e23dee417a23a23e7bfdef7141c0539bcf1af2afb74bd7179d6a1&" style="width: 100%;">
 <div>
   
   <h1 align="center">
