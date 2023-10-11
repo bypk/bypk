@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Hey! Como você está hoje? Eu sou o Gabriel Moura. Já fez algo emocionante recentemente? 😃</h1>
-<p align="center">Sou um Desenvolvedor Full Stack e tenho grande prazer em compartilhar meu conhecimento e experiência aqui!</p>
+<p align="center"></p>
 <br>
 <div align="center">
     <a href="https://github.com/gabrielmouracode">
